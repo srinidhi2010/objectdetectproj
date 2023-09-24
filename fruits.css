@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(white, aliceblue, lightblue);
+}
+h1{
+    font-size: xx-large;
+    text-shadow: 5px 5px 5px lightblue;
+}
+
+#home{
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    font-size: x-large;
+  
+}
